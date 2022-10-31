@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87469" started-at="2022-10-31T11:42:03 IST" finished-at="2022-10-31T11:43:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87469" started-at="2022-10-31T11:42:03 IST" finished-at="2022-10-31T11:43:31 IST">
+      <class name="Test_Cases.DashboardPageTest">
+        <test-method status="PASS" signature="HitBrowser()[pri:0, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="HitBrowser" is-config="true" duration-ms="44293" started-at="2022-10-31T11:42:03 IST" finished-at="2022-10-31T11:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HitBrowser -->
+        <test-method status="PASS" signature="LogoTesting()[pri:0, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="LogoTesting" duration-ms="89" started-at="2022-10-31T11:42:47 IST" finished-at="2022-10-31T11:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTesting -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="tearDown" is-config="true" duration-ms="864" started-at="2022-10-31T11:42:48 IST" finished-at="2022-10-31T11:42:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="HitBrowser()[pri:0, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="HitBrowser" is-config="true" duration-ms="36191" started-at="2022-10-31T11:42:48 IST" finished-at="2022-10-31T11:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HitBrowser -->
+        <test-method status="PASS" signature="opp()[pri:1, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="opp" duration-ms="5142" started-at="2022-10-31T11:43:25 IST" finished-at="2022-10-31T11:43:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test_Cases.DashboardPageTest@4fcd19b3]" name="tearDown" is-config="true" duration-ms="855" started-at="2022-10-31T11:43:30 IST" finished-at="2022-10-31T11:43:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Cases.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
