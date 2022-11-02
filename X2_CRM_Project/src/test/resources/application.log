@@ -3660,3 +3660,6 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 2022-10-31 11:45:25,601 TRACE [AsyncHttpClient-1-10] WebSocket08FrameEncoder:131 - Encoding WebSocket Frame opCode=8 length=26
 2022-10-31 11:45:25,982  INFO [main] BaseClass:39 - initializing browser
 2022-10-31 11:45:48,771 TRACE [AsyncHttpClient-1-13] WebSocket08FrameEncoder:131 - Encoding WebSocket Frame opCode=8 length=26
+2022-10-31 22:09:26,602  INFO [main] BaseClass:39 - initializing browser
+2022-10-31 22:09:26,612  INFO [main] BaseClass:39 - initializing browser
+2022-10-31 22:09:26,614  INFO [main] BaseClass:39 - initializing browser
